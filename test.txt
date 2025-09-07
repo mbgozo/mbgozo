@@ -1,0 +1,6 @@
+Hi
+So basically Ive been trying a couple of things on github. Created an ssh Key and now using my public key as
+an access room to clone my repos freely. 
+I think SSH key is away better to use than Personal Access Token.
+Dev World, Innit? Coming in Hot
+and ow,  typed this in vim, dont play with me. :wq
