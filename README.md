@@ -17,7 +17,7 @@ As a **Product Manager**, I focus on shaping strategy, validating user needs, an
 
 Right now, I’m learning the **fundamentals of coding**:  
 - ⚡ Bash scripting → getting comfortable with the CLI and file navigation.  
-- 🎨 Frontend development → starting with HTML, CSS, JavaScript.  
+- 🎨 Frontend development and backend development → starting with HTML, CSS, JavaScript.  
 - 🔭 Future goal → become a **Product Manager who codes**, leading teams while also being able to prototype, iterate, and ship product ideas.  
 
 ✨ What inspires me most: seeing ideas come alive, testing them with users, iterating fast, and moving closer to innovation.  
@@ -30,7 +30,7 @@ Right now, I’m learning the **fundamentals of coding**:
   <!-- Foundations -->
   <img src="https://skillicons.dev/icons?i=bash,git,github,vscode" /><br/>
   <!-- Frontend Learning -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python" /><br/>
   <!-- PM & Design Tools -->
   <img src="https://skillicons.dev/icons?i=figma,notion" />
 </p>
