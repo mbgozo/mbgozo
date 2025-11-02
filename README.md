@@ -5,32 +5,29 @@
 
 <!-- Greeting -->
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">🌍 Product Manager Exploring Code | Frontend Learner | Builder of Ideas</h3>
+<h3 align="center">⚙️ Product Manager Who Codes | Aspiring Backend Developer | Builder of Ideas</h3>
 
 ---
 
 ## 💡 About Me  
 
-I began my journey into **software engineering** because I love **bringing ideas to life** — transforming them from concepts into functional, interactive experiences.  
+I started my journey into **software engineering** from a deep curiosity about how ideas turn into real, functional products.  
 
-As a **Product Manager**, I focus on shaping strategy, validating user needs, and driving products forward. But my curiosity for **how things are built** pushed me to start learning to code — so I can bridge **strategy and execution** even better.  
+As a **Product Manager**, I’ve always focused on strategy, user value, and execution. But learning to code has given me a new superpower — understanding *how things actually work* behind the scenes.  
 
-Right now, I’m learning the **fundamentals of coding**:  
-- ⚡ Bash scripting → getting comfortable with the CLI and file navigation.  
-- 🎨 Frontend development and backend development → starting with HTML, CSS, JavaScript.  
-- 🔭 Future goal → become a **Product Manager who codes**, leading teams while also being able to prototype, iterate, and ship product ideas.  
+Now, I’m focused on mastering **backend development with Python**, combining my PM mindset with technical fluency to bridge the gap between product vision and implementation.  
 
-✨ What inspires me most: seeing ideas come alive, testing them with users, iterating fast, and moving closer to innovation.  
+✨ I’m driven by curiosity, iteration, and the thrill of seeing ideas evolve from concept → prototype → product.  
 
 ---
 
 ## 🛠️ Tech Stack (Learning + Using)  
 
 <p align="center">
-  <!-- Foundations -->
-  <img src="https://skillicons.dev/icons?i=bash,git,github,vscode" /><br/>
-  <!-- Frontend Learning -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,python" /><br/>
+  <!-- Core Tools -->
+  <img src="https://skillicons.dev/icons?i=python,bash,git,github,vscode" /><br/>
+  <!-- Web Foundations -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" /><br/>
   <!-- PM & Design Tools -->
   <img src="https://skillicons.dev/icons?i=figma,notion" />
 </p>
@@ -39,10 +36,11 @@ Right now, I’m learning the **fundamentals of coding**:
 
 ## 🌱 Current Learning Journey  
 
-- ✅ Strengthening my **command line skills** with Bash.  
-- ✅ Building a foundation in **frontend development**.  
-- 🛠️ Working on **mini-projects** to practice (landing pages, dashboards, micro apps).  
-- 🚀 Applying coding skills to **Product Management prototypes** — testing ideas faster.  
+- ✅ Gained a **solid grasp of Git and Bash**, confidently navigating the CLI and version control.  
+- 🧠 Strengthening my **Python fundamentals** — mastering data structures and OOP concepts.  
+- ⚙️ Exploring **backend frameworks** like Flask and FastAPI to build real-world APIs.  
+- 🚀 Applying coding to **Product Management prototypes**, closing the gap between strategy and execution.  
+- 🌍 Open to collaborating on **beginner-friendly backend projects** that create impact.  
 
 ---
 
@@ -59,17 +57,16 @@ Right now, I’m learning the **fundamentals of coding**:
 
 <p align="center">
   <a href="https://linkedin.com/in/michaelgozo" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="mailto:mbgozobuilds@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email"/>
   </a>
   <a href="https://twitter.com/mbgozobuilds" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-blue?logo=twitter&logoColor=white" />
+    <img src="https://img.icons8.com/fluency/48/000000/x.png" alt="X (Twitter)"/>
   </a>
 </p>
 
-
 ---
 
-<p align="center">✨ "Building ideas that inspire, one line of code at a time — from product vision to prototype." ✨</p>
+<p align="center">✨ "Bridging strategy and code — building ideas that inspire, one line at a time." ✨</p>
