@@ -1,27 +1,29 @@
-<!-- Profile Banner -->
+# <!-- Profile Banner -->
 <p align="center">
   <img src="https://github.com/mbgozo/mbgozo/blob/main/assets/banner.png" alt="GitHub Profile Banner" width="100%" />
 </p>
 
 <!-- Greeting -->
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">⚙️ Product Manager Who Codes | Aspiring Backend Developer | Builder of Ideas</h3>
+<h3 align="center">📦 Product Manager | Vibe Coder | Shipping Things That Actually Matter</h3>
 
 ---
 
-## 💡 About Me  
+## 💡 About Me
 
-I started my journey into **software engineering** from a deep curiosity about how ideas turn into real, functional products.  
+I'm a **Product Manager** who thinks in systems, ships fast, and occasionally writes code that works on the first try (sometimes).
 
-As a **Product Manager**, I’ve always focused on strategy, user value, and execution. But learning to code has given me a new superpower — understanding *how things actually work* behind the scenes.  
+My edge? I sit at the intersection of **product strategy and technical fluency** — I can read a Python script, navigate a codebase, reason through an API, and hold my own in an engineering conversation without needing a translator. I don't just hand off specs — I *understand* what I'm asking for.
 
-Now, I’m focused on mastering **backend development with Python**, combining my PM mindset with technical fluency to bridge the gap between product vision and implementation.  
+I've built a **WhatsApp chatbot** from concept to deployment, and I have a few more products quietly in the works. Keep an eye out. 👀
 
-✨ I’m driven by curiosity, iteration, and the thrill of seeing ideas evolve from concept → prototype → product.  
+Git? I live in the terminal. Version control, branching strategies, clean commit history — comfortably above the industry curve on that front.
+
+I'm not here to become a software engineer. I'm here to build great products — and know enough about the craft to never be bullshitted by one.
 
 ---
 
-## 🛠️ Tech Stack (Learning + Using)  
+## 🛠️ My Stack
 
 <p align="center">
   <!-- Core Tools -->
@@ -34,17 +36,23 @@ Now, I’m focused on mastering **backend development with Python**, combining m
 
 ---
 
-## 🌱 Current Learning Journey  
+## 🚢 What I've Shipped
 
-- ✅ Gained a **solid grasp of Git and Bash**, confidently navigating the CLI and version control.  
-- 🧠 Strengthening my **Python fundamentals** — mastering data structures and OOP concepts.  
-- ⚙️ Exploring **backend frameworks** like Flask and FastAPI to build real-world APIs.  
-- 🚀 Applying coding to **Product Management prototypes**, closing the gap between strategy and execution.  
-- 🌍 Open to collaborating on **beginner-friendly backend projects** that create impact.  
+- 🤖 **WhatsApp Chatbot** — End-to-end product: ideation, logic, deployment. It works. People use it.
+- 🔜 **More coming soon** — A few things are in the pipeline. Watch this space.
 
 ---
 
-## 📈 GitHub Stats  
+## 🧠 How I Operate
+
+- **Product first.** Strategy, users, value — that's the lens everything gets filtered through.
+- **Technical enough.** Python? I can read it, reason through it, and sometimes write it. Git? Genuinely strong.
+- **Vibe coder.** I reach for code when it's the fastest path from idea to reality, not to prove anything.
+- **Builder mentality.** I care about things that ship, not things that sit in Notion forever.
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mbgozo&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
@@ -53,7 +61,7 @@ Now, I’m focused on mastering **backend development with Python**, combining m
 
 ---
 
-## 🌍 Connect With Me  
+## 🌍 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/michaelgozo" target="_blank">
@@ -69,4 +77,4 @@ Now, I’m focused on mastering **backend development with Python**, combining m
 
 ---
 
-<p align="center">✨ "Bridging strategy and code — building ideas that inspire, one line at a time." ✨</p>
+<p align="center">✨ "I don't build features. I build things people actually use." ✨</p>
