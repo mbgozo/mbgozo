@@ -1,78 +1,55 @@
-<!-- Profile Banner -->
+# <!-- Profile Banner -->
 <p align="center">
   <img src="https://github.com/mbgozo/mbgozo/blob/main/assets/banner.png" alt="GitHub Profile Banner" width="100%" />
 </p>
 
 <!-- Greeting -->
-<h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">📦 Product Manager | Builder in Progress | Figuring It Out One Shipped Thing at a Time</h3>
+<h1 align="center">Hi, I'm Michael</h1>
+<h3 align="center"> Product Manager | Vibe Coder | Shipping Things That Actually Matter</h3>
 
 ---
 
-## 💡 About Me
+## About Me
 
-I'm a **Product Manager** who's genuinely curious about how things get built — not just why.
+I'm a **Product Manager** who thinks in systems, ships fast, and occasionally writes code that works on the first try (sometimes).
 
-I'm not an engineer, and I'm not pretending to be. But I've picked up enough along the way to hold a real conversation with a dev, read through some code without completely losing the plot, and actually understand what's happening under the hood — at least some of the time.
+My edge? I sit at the intersection of **product strategy and technical fluency** — I can read a Python script, navigate a codebase, reason through an API, and hold my own in an engineering conversation without needing a translator. I don't just hand off specs - I *understand* what I'm asking for.
 
-Python basics? I've got them — variables, functions, conditions, the fundamentals. If you drop a script in front of me, I might not always follow every line, but there's a good chance I can tell you what it's trying to do.
+I've built a **WhatsApp chatbot** from concept to deployment, and I have a few more products quietly in the works. Keep an eye out. 👀
 
-Git is where I'm actually comfortable. Branches, commits, version control — that part clicks for me.
+Git? I live in the terminal. Version control, branching strategies, clean commit history - comfortably above the industry curve on that front.
 
-I've shipped a **WhatsApp chatbot** end-to-end, and I've got a few more things quietly in the works. Nothing to announce yet — but soon. 👀
-
-Still learning, still building, still figuring it out. That's the honest version.
+I'm not here to become a software engineer. I'm here to build great products - and know enough about the craft to never be bullshitted by one.
 
 ---
 
-## 🛠️ My Stack
+## My Stack
 
 <p align="center">
-  <!-- PM & Design -->
-  <img src="https://skillicons.dev/icons?i=figma,notion" /><br/>
-  <!-- Dev Tools I actually use -->
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,bash" /><br/>
-  <!-- Web basics -->
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-
-| Layer | Tools |
-|---|---|
-| 🗺️ Product & Strategy | Notion, Miro, FigJam |
-| 🎨 Design & Prototyping | Figma |
-| 💬 Collaboration | Slack, Jira |
-| 🐍 Code (basics) | Python, Bash |
-| 🔧 Version Control | Git, GitHub |
-| ✍️ Dev Environment | VS Code |
-
----
-
-## 🚢 Things I've Shipped
-
-- 🤖 **WhatsApp Chatbot** — took it from idea to something that actually works and people use
-- 🔜 **A few more things in the pipeline** — watch this space
-
----
-
-## 🧠 How I Work
-
-- I lead with **product thinking** — users, problems, outcomes first
-- I use code as a tool, not an identity
-- I ask good questions in technical rooms and I'm not afraid to say "I don't know, but I'll find out"
-- I care about shipping, not just planning
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbgozo&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbgozo&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <!-- Core Tools -->
+  <img src="https://skillicons.dev/icons?i=python,bash,git" /><br/>
+  <!-- PM & Design Tools -->
+  <img src="https://skillicons.dev/icons?i=figma,notion" />
 </p>
 
 ---
 
-## 🌍 Let's Connect
+## What I've Shipped
+
+- **WhatsApp Chatbot** — End-to-end product: ideation, logic, deployment. It works. People use it.
+- **More coming soon** — A few things are in the pipeline. Watch this space.
+
+---
+
+## How I Operate
+
+- **Product first.** Strategy, users, value - that's the lens everything gets filtered through.
+- **Technical enough.** Python? I can read it, reason through it, and sometimes write it (Pure Vibe Coding). Git? Genuinely strong.
+- **Vibe coder.** I reach for code when it's the fastest path from idea to reality, not to prove anything.
+
+---
+
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/michaelgozo" target="_blank">
@@ -82,10 +59,10 @@ Still learning, still building, still figuring it out. That's the honest version
     <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email"/>
   </a>
   <a href="https://twitter.com/mbgozobuilds" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/x.png" alt="X (Twitter)"/>
+    <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="X (Twitter)"/>
   </a>
 </p>
 
 ---
 
-<p align="center">✨ "Still learning, still building — but always shipping." ✨</p>
+<p align="center"> "I don't build features. I build things people actually use." </p>
