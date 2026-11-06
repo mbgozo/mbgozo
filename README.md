@@ -6,25 +6,9 @@
 <!-- Greeting -->
 <h1 align="center">Hi, I'm Michael and I'm alive</h1>
 
-<!--
+
 <h3 align="center"> Product Manager | Vibe Coder | Shipping Things That Actually Matter</h3>
 
----
-
-## About Me
-
-I'm a **Product Manager** who thinks in systems, ships fast, and occasionally writes code that works on the first try (sometimes).
-
-My edge? I sit at the intersection of **product strategy and technical fluency** — I can read a Python script, navigate a codebase, reason through an API, and hold my own in an engineering conversation without needing a translator. I don't just hand off specs - I *understand* what I'm asking for.
-
-I've built a **WhatsApp chatbot** from concept to deployment, and I have a few more products quietly in the works. Keep an eye out. 👀
-
-Git? I live in the terminal. Version control, branching strategies, clean commit history - comfortably above the industry curve on that front.
-
-I'm not here to become a software engineer. I'm here to build great products - and know enough about the craft to never be bullshitted by one.
-
----
--->
 ## My Stack
 
 <p align="center">
