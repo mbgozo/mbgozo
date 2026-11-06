@@ -4,7 +4,9 @@
 </p>
 
 <!-- Greeting -->
-<h1 align="center">Hi, I'm Michael</h1>
+<h1 align="center">Hi, I'm Michael and I'm alive</h1>
+
+<!--
 <h3 align="center"> Product Manager | Vibe Coder | Shipping Things That Actually Matter</h3>
 
 ---
@@ -22,7 +24,7 @@ Git? I live in the terminal. Version control, branching strategies, clean commit
 I'm not here to become a software engineer. I'm here to build great products - and know enough about the craft to never be bullshitted by one.
 
 ---
-
+-->
 ## My Stack
 
 <p align="center">
